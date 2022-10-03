@@ -1,1 +1,3 @@
 # proglog
+
+Distributed Log Service
